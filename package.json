@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/null.plainjs-ks7zi7n8",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve c9INx4Ysh8yrY49uRCFE --open"
+  }
+}
